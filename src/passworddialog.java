@@ -40,7 +40,7 @@ public class passworddialog extends JDialog {
     }
 
     private void onOK() {
-// add your code here
+        new MainWindow();
         dispose();
     }
 
@@ -53,6 +53,5 @@ public class passworddialog extends JDialog {
         passworddialog dialog = new passworddialog();
         dialog.pack();
         dialog.setVisible(true);
-        System.exit(0);
     }
 }
