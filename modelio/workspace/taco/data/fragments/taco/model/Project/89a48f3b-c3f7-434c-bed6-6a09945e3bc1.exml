@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="taco" version="4">
+  <OBJECT>
+    <ID name="taco" mc="Standard.Project" uid="89a48f3b-c3f7-434c-bed6-6a09945e3bc1"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[taco]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DiagramRoot">
+        <COMPID name="taco" mc="Standard.DiagramSet" uid="571a7d4b-287a-4c58-899a-ffa6fd6949eb"/>
+      </COMP>
+      <COMP relation="Model">
+        <COMPID name="taco" mc="Standard.Package" uid="9b17bae4-602f-4268-88f8-2b3d6e33d8ea"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
