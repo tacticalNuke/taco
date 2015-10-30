@@ -2,357 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb424188-e562-4c5c-bd7c-7df647b52238" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\.runtime\fragments\taco\.index\index.dbf.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\.runtime\fragments\taco\.index\index.dbf.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\.runtime\fragments\taco\.index\index.dbr.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\.runtime\fragments\taco\.index\index.dbr.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\.runtime\fragments\taco\.index\index.idf.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\.runtime\fragments\taco\.index\index.idf.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\.runtime\fragments\taco\.index\index.idr.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\.runtime\fragments\taco\.index\index.idr.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\.runtime\lock.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\.runtime\lock.info" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\.runtime\projectInfo.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\.config\styles\default.style" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\.config\styles\extern.style" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\.config\styles\intern.style" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\.config\styles\main.style" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\.config\styles\ramc.style" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\.config\styles\use case.style" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\metadatas.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\.index\index.dbf.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\.index\index.dbf.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\.index\index.dbr.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\.index\index.dbr.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\.index\index.idf.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\.index\index.idf.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\.index\index.idr.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\.index\index.idr.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\admin\format_version.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\admin\stamp.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc27b8-0000-0258-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc27b8-0000-02a9-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc27b8-0000-037a-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc27b8-0000-08c8-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc27b8-0000-092f-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc27b8-0000-0e0b-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc2f68-0000-0f3a-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc2f68-0000-0f44-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc2f68-0000-0f51-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc2f68-0000-0f6b-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc2f68-0000-0fa9-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc2f68-0000-0faf-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc2f68-0000-0fc2-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc2f68-0000-0fd8-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\00bc3924-0000-189d-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\01ec045c-0000-10a1-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\01ec2468-0000-0894-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\0c841642-4e99-4f0d-8a80-4f6d24bf8656.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\1b62b1eb-de82-44cb-be22-ed350ae5cf8c.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\1f889934-8d90-11df-98b9-0014224f9977.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\2d98d6ca-5644-418a-9bae-94b5362d3c51.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\3ac00e06-3921-4b35-bb60-84618d4da048.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\3d7b14d7-4de3-4b8b-8a91-00c002a833bb.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\433bb965-77f8-4b1b-9ace-864e5af81454.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\4bd5d0c9-d5de-41d0-9515-f36f0ac34454.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\7a804dc3-44ec-11e0-8f73-0027103f347c.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\8281b44e-16ea-4e9b-94d1-dc28a2be86a9.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\89c8bd8c-fa56-475b-9fe6-ffe3910cc35c.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\a27efc42-08b8-4e7d-95c6-b393e6fe5fba.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\a6e0f5bd-2649-4c75-a926-3e833fb13002.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\aeb07ec3-af96-4069-af14-0436082805ca.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\ca6d601e-7686-4e90-9b45-95d3878eddd4.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\de95a30a-def3-4199-88a5-577f867327a2.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\deb348a5-2653-11e1-9161-002564c97630.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\df3fdfd2-5ce3-4a13-b31e-01ba8c736529.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\MetaclassReference\e884c108-f73e-11e1-8cf3-002564c97630.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\ModuleComponent\00000000-0000-2710-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Profile\00300000-0000-0032-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Profile\007004e8-0000-0282-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Profile\01ec045c-0000-3739-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Profile\1be2e3fc-27ca-11e1-8d9c-002564c97630.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Profile\d7ea54fa-8913-11df-8dda-0014224f9977.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00000000-0000-9c44-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00000000-0000-9c45-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00000000-0000-9c46-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00000000-0000-9c48-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00000000-0000-9c49-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00140d80-0000-0110-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\002005c0-0001-0007-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\002005c0-0001-0009-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\002005c0-0001-000d-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\002005c0-0001-000f-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\002005c0-0001-0011-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\0054070c-0000-005d-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\0054070c-0000-005f-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00540a84-0000-0003-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00540a84-0000-0005-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01b8-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01ba-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01bd-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01bf-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01c3-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01c5-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01c7-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01ca-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01cc-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01ce-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01d1-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01d3-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01d5-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01d7-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01d9-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01db-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01e5-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01e7-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01ef-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01f1-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01f3-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01f5-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01f7-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01f9-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01fb-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-01fe-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-0200-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-0202-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-0204-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00700680-0000-0206-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\007006dc-0000-0137-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\007006dc-0000-0139-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00bc0050-0000-006b-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00bc3ac0-0000-0d9a-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00bc4480-0000-06a8-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\00d0052c-0000-0143-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01280500-0000-0b37-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec1228-0000-0964-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec1228-0000-12f8-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-00b7-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-021a-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-021f-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0224-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0229-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-022e-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0233-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0238-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-023d-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0242-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0247-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-024c-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0251-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0256-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-025b-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0260-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0265-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0a37-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0aca-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0bfd-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec12fc-0000-0c02-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec141c-0000-12f2-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec141c-0000-12f7-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec141c-0000-12fc-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec141c-0000-1301-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec1ac4-0000-2ef9-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec1ac4-0000-2eff-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec1ac4-0000-2f04-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec1ac4-0000-2f09-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec2468-0000-0ac1-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec2468-0000-0ac6-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\01ec2468-0000-0acb-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\021863a9-f3db-11df-8ada-0027103f347c.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\0226fd5c-caf5-4cb4-b25c-06e493b37b2d.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\06edcdd9-c2fd-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\07111319-1fd7-11df-948e-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\07ba6521-5d0d-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\0ac7e50f-50c6-4eb6-9107-3d9df92a2b75.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\0bd72298-5d08-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\120a35e7-c2fd-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\15d2108f-5d0c-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\1abd18db-c2fd-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\1b1ba62d-205e-11df-948e-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\1b7fd53f-205e-11df-948e-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\1c0bf642-a90f-11de-8613-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\229bc921-c2fd-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\27ac6d48-32c8-11e0-91f3-0027103f347c.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\2961d57b-5120-11de-bbaf-00218648fa3d.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\2eb4ec1b-c2fd-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\3254be34-c7d8-4018-8a68-5de65c30b773.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\33ea7558-fb93-11df-8b5e-0027103f347c.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\34ef5bd6-d7e4-11e2-b93f-0027103f347c.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\35b84299-c2fd-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\37d0688a-c308-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\3c4678f8-f169-11df-ae59-0014224f9977.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\3edfb381-5d0d-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\3f03c5f1-c308-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\40400bbd-0b5d-11df-8680-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\435869cb-c2fd-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\4a427283-5d09-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\4b4745a9-5d0c-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\4e477e48-35b4-11df-9280-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\4edcbbef-5d0a-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\52d7cccb-c2fd-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\554cb8bb-5d0e-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\5582e283-c2f9-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\5791cd76-03ec-11e2-9c63-0027103f347d.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\5d167c0f-df53-11de-b2b1-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\5d357779-c2fd-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\61222898-ff82-4681-a82f-a8f14c479dd1.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\641a5778-89a9-11df-9978-0014224f9977.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\6432b987-256f-4121-9428-a89d364c2cef.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\67694a37-c2f9-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\679a9417-8f06-4255-a409-1e1f7136e418.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\68c63e60-70d6-11e0-872f-0027103f347c.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\6a3f6989-c2fd-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\6e2770bf-c2f9-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\6f3c6234-52b8-11df-a320-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\6faa55e3-5d0b-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\744f6321-c2f9-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\74d7cf69-58eb-48e4-b71a-e5bb0f7570f7.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\76c174ab-c2fd-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\76f275f9-32d9-11e0-91f3-0027103f347c.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\770df309-5d0c-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\86eada10-32d9-11e0-91f3-0027103f347c.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\89326f2e-c2fc-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\89927bbf-c2f9-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\8c44d73d-5d0b-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\8e76c95f-5821-11df-be59-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\8ed6276e-5821-11df-be59-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\8fb43b1c-7819-11e1-a4f1-002564c97630.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\90a0e341-5d0d-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\994fc1e3-c2f9-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\99bf7919-5d09-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\9fb5321d-c2fc-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\a46b20b8-26ab-11df-ac88-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\a74178fb-df2b-11de-905b-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\aa99ee06-c495-11de-ada1-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\ad46ab04-9310-11df-a4cf-0014224f9977.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\b071b025-c2fc-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\b355cc6c-c4aa-11df-b100-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\b9654705-c2f9-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\bae91a3b-7009-11e0-a462-0027103f347c.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\c0f03827-5d0b-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\c2e23680-96f0-11de-a322-001fe2c988b8.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\c4b3add1-c2f9-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\c6a579b6-5d0d-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\c7ba7024-eff5-4039-a4d4-c9ddcd0a3aed.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\cf671bc3-c2f9-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\d09356f1-c2fc-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\de38398e-c746-11e1-8624-0027103f347d.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\e4358003-f3da-11df-8ada-0027103f347c.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\e445c33b-de99-11de-905b-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\e4c6c55f-c2fc-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\eb8f06b7-de86-11de-905b-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\ec22d8ff-de86-11de-905b-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\ed0bb1c3-de99-11de-905b-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\ed95fa9b-de99-11de-905b-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\edc05471-5d08-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\ee06097f-de99-11de-905b-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\ee97796b-de99-11de-905b-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\f8e58a85-c2fa-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\f9061fa3-c2fc-11de-8ac8-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\fca54004-5d0d-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\fdbc7d78-32c7-11e0-91f3-0027103f347c.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\ModelerModule\content\model\model\Stereotype\ff6e0375-5d09-11df-a996-001302895b2b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\metadatas.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\.index\index.dbf.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\.index\index.dbf.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\.index\index.dbr.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\.index\index.dbr.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\.index\index.idf.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\.index\index.idf.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\.index\index.idr.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\.index\index.idr.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\admin\format_version.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\admin\stamp.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\AnalystProject\159f64bb-cdb4-42df-94eb-2fb42b4b0a05.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\Artifact\4bb461ab-1cb8-4e47-ab98-5ab266bd55cb.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\DataType\00000004-0000-0005-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\DataType\00000004-0000-0007-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\DataType\00000004-0000-0009-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\DataType\00000004-0000-000b-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\DataType\00000004-0000-000d-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\DataType\00000004-0000-000f-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\DataType\00000004-0000-0010-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\DataType\00000004-0000-0011-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\DataType\00000004-0000-0012-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\DataType\00000004-0000-0013-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\DataType\00000004-0000-0014-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\EnumeratedPropertyType\00080cf0-0000-0031-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\EnumeratedPropertyType\00080cf0-0000-0032-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\EnumeratedPropertyType\00080cf0-0000-00bc-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\EnumeratedPropertyType\00bc470c-0000-001b-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\EnumeratedPropertyType\00bc470c-0000-002a-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\EnumeratedPropertyType\00bc470c-0000-0035-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\EnumeratedPropertyType\01ec152c-0000-3152-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\EnumeratedPropertyType\f98047ab-24f3-4b41-adbb-3cb70791184a.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\EnumeratedPropertyType\fd1e7e3d-1c25-4e43-a8d0-23ad542da716.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\Package\00000004-0000-0004-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\Project\4b0427a8-c366-4fac-ba0f-678c77f3d2ff.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyContainer\ebe0fc1e-a2a8-4070-809f-4bf73eb50c43.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyTableDefinition\00080cf0-0000-001a-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyTableDefinition\00080cf0-0000-001b-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyTableDefinition\00080cf0-0000-001c-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyTableDefinition\00080cf0-0000-001d-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyTableDefinition\00080cf0-0000-001e-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyTableDefinition\00080cf0-0000-001f-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyTableDefinition\00080cf0-0000-0020-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyTableDefinition\00bc470c-0000-0018-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyTableDefinition\00bc470c-0000-0019-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyTableDefinition\01ec152c-0000-144f-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyTableDefinition\7649b5c8-8733-4a02-959c-a269422402b8.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyTableDefinition\eb3dbc2d-8e8a-40e4-9f8c-3cfd64a04944.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyType\00080cf0-0000-00cf-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyType\01a40888-0000-002a-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyType\01a40888-0000-002b-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyType\01a40888-0000-002d-0000-000000000000.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyType\136b356c-3951-473b-aa4a-001c0241b996.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyType\753fc9f9-c136-449c-949c-4fa467511d99.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyType\827950f7-671f-4db7-9374-23df864712ef.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyType\b58969db-144e-4a1f-b946-cd6deacca9bd.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyType\bc36b99e-8470-4aee-ba2a-5012c0a17525.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\PredefinedTypes 3.4.05\content\model\model\PropertyType\c37f01cf-273e-11e1-b78e-00137282c51b.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\admin\format_version.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\admin\mmversion.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\admin\stamp.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\Actor\0a9add74-6895-41c2-9de9-2c3fe74d5555.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\Actor\11269984-9dec-43a2-875f-536f7c2377b1.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\Actor\4bee6e71-e5ef-40cd-aa09-31a537a089c0.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\Actor\95b5865e-6f71-41a0-88fa-6473ccb75f63.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\Actor\9963a137-7b80-4e52-9f56-4951a1ac0511.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\AnalystProject\5276d0f2-894e-48b5-9738-197cb56bedc4.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\ClassDiagram\083c7125-918f-4c4a-82f7-be531688a3b0.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\DiagramSet\571a7d4b-287a-4c58-899a-ffa6fd6949eb.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\ModuleComponent\41ef5d3d-1116-422c-8dbf-19a1cb1fd7bc.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\Package\9b17bae4-602f-4268-88f8-2b3d6e33d8ea.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\Profile\7d9e6f22-923c-4606-804c-cda8aa854ecb.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\Project\89a48f3b-c3f7-434c-bed6-6a09945e3bc1.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\PropertyContainer\e7d44c0f-5f74-4882-8008-bdaeddc56dcd.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\UseCaseDiagram\f3f64ebc-c465-49b0-b0cd-ca0a3283c14f.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\UseCase\00a625fc-9239-4cbb-90dd-743da12fdbc4.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\UseCase\098a5271-6bff-41d3-8e34-d5cc35b0393f.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\UseCase\9e2e88e7-0dfb-4313-9602-2e07edeffa79.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\UseCase\a058f0c0-1c35-4d10-8dc0-e00d30e1f6a6.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\UseCase\a4a790f7-1994-4d3e-87d5-11711b691ac9.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\UseCase\bbacc6f8-e713-42c4-af14-05ade75e2584.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\UseCase\ceeca665-5ce4-4b53-8a87-2f3c8cac5894.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\UseCase\d450f698-4edc-4556-be43-4c3784798e81.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\UseCase\ee6e0efe-e2e0-40ff-a8e4-d62b0703958d.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\fragments\taco\model\UseCase\f6876aa8-a6c6-49f7-a6b4-3d82a9fd5df1.exml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\localmodel\blobs\namespaceuse.initialized.blob" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\localmodel\localmodel.dbf.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\localmodel\localmodel.dbf.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\localmodel\localmodel.dbr.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\localmodel\localmodel.dbr.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\localmodel\localmodel.idf.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\localmodel\localmodel.idf.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\localmodel\localmodel.idr.0" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\localmodel\localmodel.idr.t" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\data\modules\ModelerModule\ModelerModule.jmdac" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User03\Documents\Горбунов Михаил\taco\modelio\workspace\taco\project.conf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/taco/passworddialog$1.class" afterPath="$PROJECT_DIR$/out/production/taco/passworddialog$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/taco/passworddialog$2.class" afterPath="$PROJECT_DIR$/out/production/taco/passworddialog$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/taco/passworddialog$3.class" afterPath="$PROJECT_DIR$/out/production/taco/passworddialog$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/taco/passworddialog$4.class" afterPath="$PROJECT_DIR$/out/production/taco/passworddialog$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/taco/passworddialog.class" afterPath="$PROJECT_DIR$/out/production/taco/passworddialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taco Use Case diagram.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="db0e8872-4b7f-4bf4-a78a-56b195077326" name="Failed commit: Default" comment="Renamed like CamelCase" />
@@ -496,6 +146,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="taco" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taco" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taco" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -796,7 +456,7 @@
       <workItem from="1444366274758" duration="1638000" />
       <workItem from="1444968264640" duration="1863000" />
       <workItem from="1445572421831" duration="2231000" />
-      <workItem from="1446177601480" duration="2456000" />
+      <workItem from="1446177601480" duration="2564000" />
     </task>
     <task id="LOCAL-00001" summary="Login and MainWindow added.">
       <created>1445573390349</created>
@@ -816,11 +476,17 @@
       <option name="project" value="LOCAL" />
       <updated>1446178252370</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="delited modelio directory">
+      <created>1446180708571</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1446180708571</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8188000" />
+    <option name="totallyTimeSpent" value="8296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="163" y="43" width="1397" height="820" extended-state="0" />
@@ -867,7 +533,8 @@
     <MESSAGE value="Login and MainWindow added." />
     <MESSAGE value="Login dialog completed" />
     <MESSAGE value="Renamed like CamelCase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed like CamelCase" />
+    <MESSAGE value="delited modelio directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="delited modelio directory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
