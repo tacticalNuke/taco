@@ -1,14 +1,14 @@
 import javax.swing.*;
 import java.awt.event.*;
 
-public class passworddialog extends JDialog {
+public class PasswordDialog extends JDialog {
     private JPanel contentPane;
     private JButton buttonOK;
     private JButton buttonCancel;
     private JTextField loginTextField;
     private JPasswordField passwordPasswordField;
 
-    public passworddialog() {
+    public PasswordDialog() {
         setContentPane(contentPane);
         setModal(true);
         getRootPane().setDefaultButton(buttonOK);
@@ -52,7 +52,7 @@ public class passworddialog extends JDialog {
     }
 
     public static void main(String[] args) {
-        passworddialog dialog = new passworddialog();
+        PasswordDialog dialog = new PasswordDialog();
         dialog.pack();
         dialog.setVisible(true);
     }
